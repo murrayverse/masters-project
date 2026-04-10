@@ -37,4 +37,3 @@ Sample screen output for the parallel version:
 ![alt text][img]
 
 [img]: https://github.com/seancmry/msc_pro/blob/master/report/plots/screenoutput.PNG
-
